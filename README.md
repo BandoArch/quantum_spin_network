@@ -2,12 +2,14 @@ A small qiskit qiskit 2.0 primitives project showcasing that space is merely an 
 rather than a container as assumed in classical (Newtonian) physics.
 
 SPIN NETWORK
+
 This was achieved by entangling three qubits together using the cz gate (Controlled-Z gate), and the Hadamard gate (qc.h), to set the qubits
 into an entangled state with the results representing the "Area Operator" snapping to its lowest possible physical value:
 one Planck area, which locks the qubits into a non-zero entangled state.
 Remove the cz gates and you end up with an "area" of zero as space no longer exists.
 
 SPIN FOAMS
+
 Remember the spin network (the "atom" of space) that I just explained above, Spin Foams is basically that but with the
 introduction of time. You can Imagine the spin network we built as the static "atom" of space. We know that the
 universe is in 4D rather than 3D so Spin Foams basically introduces the concept of time into the Spin Network to make
