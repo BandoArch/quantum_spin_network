@@ -17,12 +17,12 @@ Let's move away from the theoretical for now and focus on the code to understand
 The t represents the state of a space "atom" or spin network after each iteration from 1 through 5. The
 for loop facilitates the creation of 3 qubits providing a blank quantum slate before any entanglement occurs.
 For the first step, the qc.rx gate rotates the qubits (nodes/knots) causing a change in the spin state of the qubit/node, which results in the volume of the space "atom" also changing. The change in volume
-is determined by taking the product of the base Planck volume and multiplying it by a mathematical value derivedz
+is determined by taking the product of the base Planck volume and multiplying it by a mathematical value derived
 from the spin state.
 From a theoretical standpoint the qc.rx gate represents kinetic energy.
 After reaching maximum expansion at a threshold, the volume starts to contract back to its base volume.
 This process repeats causing a sort of "breathing" effect that can also be observed after running the code.
-This "breathing" effect along with the restructuring of the entanglement lines (cz gates) with respect to the changes in the spin state of the space "atom", is what is known as the passage of time. This Spin Foam phenomenon is visualized in the section below.
+This "breathing" effect along with the restructuring of the entanglement lines (cz gates) with respect to the changes in the spin state of the space "atom", is what is known as the passage of time. The Spin Foam phenomenon is visualized in the section below.
 
 ***NOTE: The angle of rotation of 0.2 is chosen for visual clarity rather than derived from physical constants such as the Barbero-Immirzi parameter.***
 
