@@ -2,9 +2,10 @@
 rather than a container as assumed in classical (Newtonian) physics.**
 
 ## SPIN NETWORK
-This was achieved by entangling three qubits together using the cz gate (Controlled-Z gate), and the Hadamard gate (qc.h), to set the qubits
+This was achieved by entangling three qubits together using the cz gate (Controlled-Z gate), to set the qubits
 into an entangled state with the results representing the "Area Operator" snapping to its lowest possible physical value:
 one Planck area, which locks the qubits into a non-zero entangled state.
+The Hadamard gate (qc.h) sets the qubits in superposition.
 Remove the cz gates and you end up with an "area" of zero as space no longer exists.
 
 ## SPIN FOAMS
