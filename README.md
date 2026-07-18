@@ -34,4 +34,4 @@ Time Step 5 -> Probability of '000': 0.128 | Total Counts: {'100': 123, '101': 1
 ```
 !["Breathing" graph](breathing_graph.png)
 
-***Note: Because the measurement at the first iteration occurs after the gate applications, the graph represents the space "atom" at its first state of motion rather than the absolute ground-state volume.***
+***NOTE: Because the measurement at the first iteration occurs after the gate applications, the graph represents the space "atom" at its first state of motion rather than the absolute ground-state volume.***
