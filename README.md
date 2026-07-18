@@ -32,4 +32,4 @@ Time Step 3 -> Probability of '000': 0.159 | Total Counts: {'101': 126, '110': 9
 Time Step 4 -> Probability of '000': 0.121 | Total Counts: {'110': 136, '011': 149, '010': 114, '111': 149, '100': 114, '000': 124, '001': 116, '101': 122}
 Time Step 5 -> Probability of '000': 0.128 | Total Counts: {'100': 123, '101': 100, '001': 122, '111': 154, '011': 136, '110': 131, '010': 127, '000': 131}
 ```
-!["Breathing" graph](breathing_graph.png)
+!["Breathing" graph](breathing_graph1.png)
