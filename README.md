@@ -22,7 +22,7 @@ from the spin state.
 From a theoretical standpoint the qc.rx gate represents kinetic energy.
 After reaching maximum expansion at a threshold, the volume starts to contract back to its base volume.
 This process repeats causing a sort of "breathing" effect that can also be observed after running the code.
-This "breathing" effect along with the restructuring of the entanglement lines (cz gates) with respect to the changes in the spin state of the space "atom", is what is known as the passage of time.
+This "breathing" effect along with the restructuring of the entanglement lines (cz gates) with respect to the changes in the spin state of the space "atom", is what is known as the passage of time. This Spin Foam phenominon is visualized in the section below.
 
 ***NOTE: The angle of rotation (0.2) is chosen for visual clarity rather than derived from physical constants such as the Barbero-Immirzi parameter.***
 
