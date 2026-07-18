@@ -33,3 +33,5 @@ Time Step 4 -> Probability of '000': 0.121 | Total Counts: {'110': 136, '011': 1
 Time Step 5 -> Probability of '000': 0.128 | Total Counts: {'100': 123, '101': 100, '001': 122, '111': 154, '011': 136, '110': 131, '010': 127, '000': 131}
 ```
 !["Breathing" graph](breathing_graph.png)
+
+***Note: Because the measurement at the first iteration occurs after the gate applications, the graph represents the space "atom" at its first state of motion rather than the absolute ground-state volume.***

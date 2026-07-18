@@ -43,7 +43,7 @@ time_steps = [1, 2, 3, 4, 5]
  # The '000' state data
 
 plt.plot(time_steps, dynamic_probabilities, marker='o', linestyle='-', color='b')
-plt.title("Quantum Volume Fluctuation (The 'Breathing' Effect)")
+plt.title("Volume Fluctuation (The 'Breathing' Effect)")
 plt.xlabel("Time Step (t)")
 plt.ylabel("Probability of Base Volume State ('000')")
 plt.grid(True)
