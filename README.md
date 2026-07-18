@@ -23,3 +23,13 @@ From a theoretical standpoint the qc.rx gate represents kinetic energy.
 After reaching maximum expansion at a threshold, the volume starts to contract back to its base volume.
 This process repeats causing a sort of "breathing" effect that can also be observed after running the code.
 This "breathing" effect along with the restructuring of the entanglement lines (cz gates) with respect to the changes in the spin state of the space "atom", is what is known as the passage of time.
+
+#### Terminal output and graph:
+```bash
+Time Step 1 -> Probability of '000': 0.139 | Total Counts: {'011': 135, '110': 137, '000': 142, '100': 144, '001': 113, '111': 128, '010': 115, '101': 110}
+Time Step 2 -> Probability of '000': 0.142 | Total Counts: {'111': 134, '100': 123, '110': 133, '000': 145, '001': 133, '011': 123, '101': 100, '010': 133}
+Time Step 3 -> Probability of '000': 0.128 | Total Counts: {'001': 127, '100': 143, '000': 131, '111': 144, '101': 123, '110': 115, '010': 112, '011': 129}
+Time Step 4 -> Probability of '000': 0.143 | Total Counts: {'001': 120, '000': 146, '101': 130, '010': 114, '011': 128, '110': 133, '100': 116, '111': 137}
+Time Step 5 -> Probability of '000': 0.135 | Total Counts: {'101': 134, '010': 120, '001': 133, '100': 113, '011': 121, '110': 129, '111': 136, '000': 138}
+```
+!["Breathing" graph](breathing_graph.png)
